@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+.env.sample
+
+# Ignore node dependencies
+node_modules/
+
+# Optional: ignore log files
+*.log
+
+# Optional: OS + IDE junk files
+.DS_Store
+*.swp
+tmproary.js

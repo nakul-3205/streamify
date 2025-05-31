@@ -46,4 +46,3 @@ Built over 11 full-featured backend functionalities including complete auth flow
 I have tired and build a small youtube clone , the project isnt ready yet.
 Tech Stack - Node js, Express js, Mongo DB, Cloudinary, Jwt 
 
-❌❌❌CODE MIGHT HAVE ERRORS AS ITS STILL UNDER DEVELOPMENT❌❌❌
